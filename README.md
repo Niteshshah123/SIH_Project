@@ -1,8 +1,6 @@
 # SIH Project
 ## AI-powered chatbot-based Android application
 
-Here’s an improved version of your **SIH 2024** presentation, including the new details:
-
 ---
 
 ### **1. Title Page**
@@ -83,4 +81,3 @@ Here’s an improved version of your **SIH 2024** presentation, including the ne
 
 ---
 
-This version includes your additional points about platform integration and user convenience. If you’d like me to convert this into a presentation or make further changes, let me know!
